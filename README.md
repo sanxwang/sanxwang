@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @sanxwang
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-sanxwang/sanxwang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi there! I'm @sanxwang, a web frontend developer with a passion for creating visually stunning experiences. 
+- 👀 I'm fascinated by VR, 3D graphics (Three.js), and silky smooth animations. I love breathing life into user interfaces through motion and interaction.
+- 🌱 I'm currently learning more about WebGL, WebVR, and optimizations for high FPS animation. There's always more to explore!
+- 🎨 In my spare time I like to experiment with Three.js frameworks and tweak graphics settings to push boundaries. Bring on the particles!
+- 💞️ I'm looking to collaborate on projects that involve crafting immersive environments and trippy visual effects. Let's make something weird and wonderful!
+- 📫 Want to chat? Reach me at sanxwang@outlook.com. I'd love to connect with other devs interested in 3D, VR, and animation!
