@@ -1,6 +1,6 @@
-- 👋 Hi there! I'm @sanxwang, a web frontend developer with a passion for creating visually stunning experiences. 
-- 👀 I'm fascinated by VR, 3D graphics (Three.js), and silky smooth animations. I love breathing life into user interfaces through motion and interaction.
-- 🌱 I'm currently learning more about WebGL, WebVR, and optimizations for high FPS animation. There's always more to explore!
-- 🎨 In my spare time I like to experiment with Three.js frameworks and tweak graphics settings to push boundaries. Bring on the particles!
-- 💞️ I'm looking to collaborate on projects that involve crafting immersive environments and trippy visual effects. Let's make something weird and wonderful!
-- 📫 Want to chat? Reach me at sanxwang@outlook.com. I'd love to connect with other devs interested in 3D, VR, and animation!
+-	👋 Hi there! I’m @sanxwang, a web frontend developer dedicated to crafting visually compelling and interactive user experiences.
+-	👀 I’m deeply intrigued by the world of VR, 3D graphics (especially with Three.js), and smooth, immersive animations. Bringing interfaces to life through motion and interactivity is my passion.
+-	🌱 I’m currently diving deeper into WebGL, WebVR, and performance optimization to achieve high FPS animations. There’s always something new to learn!
+-	🎨 In my free time, I enjoy experimenting with Three.js, pushing the limits of graphics, and creating unique visual effects. The more particles, the better!
+-	💞️ I’m eager to collaborate on projects that focus on building immersive environments and innovative visual experiences. Let’s create something truly unique and exciting!
+-	📫 Feel free to reach out at sanxwang@outlook.com. I’d love to connect with fellow developers who share an interest in 3D, VR, and animation!
